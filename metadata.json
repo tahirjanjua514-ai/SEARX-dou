@@ -1,0 +1,6 @@
+{
+  "name": "SEARX AI – All-in-One Media Downloader",
+  "description": "All-in-one smart media downloader and analyzer for social media platforms with multi-download queue, background downloading, and audio extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
